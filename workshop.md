@@ -1,6 +1,7 @@
 # Digital Humanities and the National Libraries (in the Nordic and Baltic Countries) – Workshop at the DHN2019
 
 ## Organizers
+
 * Stig Roar Svenningsen (1)
 * Mads Linnet Perner (1)
 * Ditte Laursen (1)
@@ -14,8 +15,11 @@
 ## Time & Place
 
 Wednesday, March 6, 2019
+
 9.00–12.00
+
 University of Copenhagen, Denmark
+
 
 ## Workshop description
 

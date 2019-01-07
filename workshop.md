@@ -1,4 +1,4 @@
-# Digital Humanities and the National Libraries (in the Nordic and Baltic Countries) – Workshop at the DHN2019
+# Digital Humanities and the National Libraries and Archives (in the Nordic and Baltic Countries) – Workshop at the DHN2019
 
 ## Organizers
 

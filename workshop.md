@@ -1,4 +1,4 @@
-# Digital Humanities and the National Libraries and Archives (in the Nordic and Baltic Countries) – Workshop at the DHN2019
+# Digital Humanities and the National and University Libraries and Archives (in the Nordic and Baltic Countries) – Workshop at the DHN2019
 
 ## Organizers
 
@@ -23,10 +23,11 @@ University of Copenhagen, Denmark
 
 ## Workshop description
 
-Recent years have seen an increased focus on digital humanities at national libraries, driven by a strategic desire to develop key digital services for university faculty and students, as well as a means to explore the libraries’ vast collections of heritage data. Through their service, libraries often have direct access to scholars and students. Meanwhile, after years of digitization, they now hold large repositories of digital heritage data, ready to be explored. The focus on digital humanities has resulted in a number of developments, ranging from improved access to digital repositories to organizing data sprints at the university libraries. The work has, however, not always been straightforward, as several both organizational, theoretical and technological problems arose in the process. Those issues range from the curation of library materials, to selection biases of the process of digitization. This workshop aims to light a discussion these issues, and several others, that rise in connection to national libraries’ engagement with the digital humanities. 
+Recent years have seen an increased focus on digital humanities at national and university libraries, driven by a strategic desire to develop key digital services for university faculty and students, as well as a means to explore the libraries’ vast collections of heritage data. Through their services, libraries often have direct access to scholars and students. Meanwhile, after years of digitization, they now hold large repositories of digital heritage data, ready to be explored. The focus on digital humanities has resulted in a number of developments, ranging from improved access to digital repositories to organizing datasprints at the university libraries. The work has, however, not always been straightforward, as various organizational, theoretical and technological problems arose in the process. Those issues range from the curation of library materials, through selection biases of the process of digitization to access. One of the key objectives of this workshop is to start a discussion on these and other issues, that rise in connection to national libraries’ engagement with the digital humanities. 
 
-The workshop has the following four themes:
+Although policies and services offered at national and university libraries are the main focus of the workshop, we encourage participation of other institutions, including national archives and museums, that offer or plan to offer access to their digital collections for research purposes.
 
+The workshop will be organised around four themes:
 ### 1. Collections as Data
 
 Libraries have invested resources in digital access to the digital repositories. This includes dedicated websites for access, crowdsourcing portals, API and data repositories. This section will focus on best practices regarding accessibility and usability of the digital heritage data at the national libraries. 
@@ -47,8 +48,8 @@ Text holds a primacy in current digital humanities scholarship. This does not, h
 
 Despite the recent expansion of digital repositories and learning facilities, such as Labs and dedicated DH librarians, the share of students and faculty using data and DH infrastructure in their work is still rather low. This theme will address issues such as:
 
-* How to turn students’ attention to DH tools and data.
-* How to effectively engage students and faculty in DH activities and data.
+* How to turn students’ attention to DH tools and data?
+* How can dedicated DH librarians effectively engage students’ and faculty members in activities that underpin their interest in digital data and methods?
  
 ### 4. Selection Bias of Digital Collections
 
@@ -57,13 +58,13 @@ The current digital repositories reflects the digitization and collection effort
 * How is material selected for digitization?
 * How will this praxis affect future DH scholarship?
 * How to keep information about provenance of data?
-* How to should material be selected – research driven or decided librarians?
+* How  should material be selected – research driven or decided librarians?
 * How to account for and communicate these biases to researchers and students?
 
 ## Outcome
-The workshop is expected to facilitate the dialog between research and GLAM-institutions as well as sharing the lessons learned by libraries and archives. We also propose that we present the workshop outcomes at the conference as a first stepping stone to reach a wider audience, possibly leading to a proposal for the establishment of a Nordic/Baltic DHN working group in digital humanities in national libraries and archives.
+The workshop is expected to facilitate the dialog between research and GLAM-institutions as well as sharing the lessons learned by libraries and archives. We also propose that we present the workshop outcomes at the conference as a first stepping stone to reaching a wider audience and contributing to the proposal for the establishment of a Nordic/Baltic DHN working group in digital humanities in national libraries and archives.
 
-## Preliminary Schedule
+## Preliminary Schedule (TBC)
 
 |Slot|Presenter|Topic|
 |---|---|---|

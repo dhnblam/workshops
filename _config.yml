@@ -6,6 +6,7 @@ relative_links:
 include:
   - workshop.md
   – README.md
+  - index.md
 
 theme: 
   jekyll-theme-cayman

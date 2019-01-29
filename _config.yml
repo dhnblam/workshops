@@ -3,9 +3,12 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+include:
+  - workshop.md
+  – README.md
+  – index.md
+
 theme: 
   jekyll-theme-cayman
 title: 
   Digital Humanities and the National and University Libraries and Archives Working Group
-include:
-  - workshop.md

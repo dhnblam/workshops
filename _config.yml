@@ -1,4 +1,11 @@
-theme: jekyll-theme-cayman
-title: Digital Humanities and the National and University Libraries and Archives Working Group
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+theme: 
+  jekyll-theme-cayman
+title: 
+  Digital Humanities and the National and University Libraries and Archives Working Group
 include:
   - workshop.md

@@ -64,8 +64,20 @@ The current digital repositories reflects the digitization and collection effort
 ## Outcome
 The workshop is expected to facilitate the dialog between research and GLAM-institutions as well as sharing the lessons learned by libraries and archives. We also propose that we present the workshop outcomes at the conference as a first stepping stone to reaching a wider audience and contributing to the proposal for the establishment of a Nordic/Baltic DHN working group in digital humanities in national libraries and archives.
 
-## Preliminary Schedule (TBC)
+## Draft Programme (TBC)
 
-|Slot|Presenter|Topic|
-|---|---|---|
-
+|Slot|Session|Presenter|Topic|
+|---|---|---|---|
+|09:00-09:05|INTRODUCTION|tba||
+|09:05-09:20|I. Access to collections as data|Annika Rockenberger, NL Norway & Olga Holownia, British Library/IIPC|Mapping the Nordic digital collections – registry|
+|||Sally Chambers, DARIAH.BE / Ghent Centre for Digital Humanities|Moving beyond the hard-drive: facilitating web-based access to collections as data| 
+|09:20-09:35|II. Utilizing the full potential of the collections|Henrik Smith-Sivertsen, Royal Danish Library|TITLE|
+|||Martijn Kleppe, Koninklijke Bibliotheek, National Library of the Netherlands / KB Labs|TITLE|
+|09:35-10:50|III. Curating digital collections and learning resources for students and faculty|Lars Kjær & Hazel Engelsmann, Royal Danish Library|Educational activities at university libraries around digital collections|
+|||Pelle Snickars, NL Sweden|Curating Data at Library Labs|
+|09:50-10:05|IV. Selection bias of digital collections|Stig Roar Svenningsen, Mads Linnet Perner & Ditte Laursen, Royal Danish Library|TITLE|
+|||Rossitza Atanassova & Mahendra Mahey, British Library|TITLE|
+|10:10-11:40|BREAKOUT SESSIONS|||
+|10:10-10:50|1 session (select one group)|||
+|10:50-11:40|1 session (select another group)|||
+|11:40-12:00|SUMMARY (4x 5 mins)|||

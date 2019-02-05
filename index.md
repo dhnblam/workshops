@@ -1,8 +1,10 @@
-# Digital Humanities and the National and University Libraries and Archives (in the Nordic and Baltic Countries) – Workshop at the DHN2019
+# DHN Labs – Workshop @ DHN2019
+
+## Digital Humanities and the National and University Libraries and Archives (in the Nordic and Baltic Countries)
 
 ## Organizers
 
-Stig Roar Svenningsen, Mads Linnet Perner, Ditte Laursen, Lars Kjær (1), Annika Rockenberger (2), Olga Holownia (3)
+**Stig Roar Svenningsen, Mads Linnet Perner, Ditte Laursen, Lars Kjær (1), Annika Rockenberger (2), Olga Holownia (3)**
 
 (1) Royal Danish Library, (2) National Library of Norway, (3) British Library/International Internet Preservation Consortium
 

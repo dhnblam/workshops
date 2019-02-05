@@ -2,13 +2,7 @@
 
 ## Organizers
 
-* Stig Roar Svenningsen (1)
-* Mads Linnet Perner (1)
-* Ditte Laursen (1)
-* Olga Holownia (3)
-* Lars Kjær (1)
-* Hazel Engelsmann (1)
-* Annika Rockenberger (2)
+Stig Roar Svenningsen, Mads Linnet Perner, Ditte Laursen, Lars Kjær (1), Annika Rockenberger (2), Olga Holownia (3)
 
 (1) Royal Danish Library, (2) National Library of Norway, (3) British Library/International Internet Preservation Consortium
 
@@ -18,7 +12,9 @@ Wednesday, March 6, 2019
 
 9.00–12.00
 
-University of Copenhagen, Denmark
+The Royal Library, Copenhagen/Denmark
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.579989433288576%2C55.672653802219074%2C12.584350705146791%2C55.674843916243546&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/55.67375/12.58217">View Larger Map</a></small>
 
 
 ## Workshop description

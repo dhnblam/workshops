@@ -73,7 +73,7 @@ The workshop is expected to facilitate the dialog between research and GLAM-inst
 |||Martijn Kleppe, Koninklijke Bibliotheek, National Library of the Netherlands / KB Labs|TITLE|
 |09:35-10:50|III. Curating digital collections and learning resources for students and faculty|Lars Kjær, Royal Danish Library|Educational activities at university libraries around digital collections|
 |||||
-|09:50-10:05|IV. Selection bias of digital collections|Stig Roar Svenningsen, Mads Linnet Perner & Ditte Laursen, Royal Danish Library|TITLE|
+|09:50-10:05|IV. Selection bias of digital collections|Stig Roar Svenningsen, Mads Linnet Perner & Ditte Laursen, Royal Danish Library|Types of bias in digitized and digital born collections|
 |||Rossitza Atanassova & Mahendra Mahey, British Library|It ain’t what you do but the way that you do it: Learning the lessons of how we capture the digital|
 |10:10-11:40|BREAKOUT SESSIONS|||
 |10:10-10:50|1 session (select one group)|||

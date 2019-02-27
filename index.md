@@ -75,7 +75,8 @@ The workshop is expected to facilitate the dialog between research and GLAM-inst
 |||Mahendra Mahey, British Library|GLAM Labs for researchers|
 |09:50-10:05|IV. Selection bias of digital collections|Stig Roar Svenningsen, Mads Linnet Perner & Ditte Laursen, Royal Danish Library|Types of bias in digitized and digital born collections|
 |||Rossitza Atanassova, British Library|It ain’t what you do but the way that you do it: Learning the lessons of how we capture the digital|
-|10:10-11:40|BREAKOUT SESSIONS|||
-|10:10-10:50|1 session (select one group)|||
-|10:50-11:40|1 session (select another group)|||
-|11:40-12:00|SUMMARY (4x 5 mins)|||
+|10:05-10:20|COFFEE BREAK|||
+|10:20-11:40|BREAKOUT SESSIONS|||
+|10:20-11:00|1 session (select one group)|||
+|11:00-11:40|1 session (select another group)|||
+|10:40-12:00|SUMMARY|||

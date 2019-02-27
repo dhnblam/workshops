@@ -79,4 +79,4 @@ The workshop is expected to facilitate the dialog between research and GLAM-inst
 |10:20-11:40|BREAKOUT SESSIONS|||
 |10:20-11:00|1 session (select one group)|||
 |11:00-11:40|1 session (select another group)|||
-|11:40-12:00|SUMMARY|
+|11:40-12:00|SUMMARY (4 x 5min)|

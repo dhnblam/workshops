@@ -66,14 +66,14 @@ The workshop is expected to facilitate the dialog between research and GLAM-inst
 
 |Slot|Session|Presenter|Topic|
 |---|---|---|---|
-|09:00-09:05|INTRODUCTION|Ditte Laursen, Mads Linnet Perner & Lars Kjær||
+|09:00-09:05|INTRODUCTION|Stig Svenningsen||
 |09:05-09:20|I. Access to collections as data|Annika Rockenberger, NL Norway & Olga Holownia, British Library/IIPC|Mapping the Nordic digital collections – registry|
 |||Sally Chambers, DARIAH.BE / Ghent Centre for Digital Humanities|Moving beyond the hard-drive: facilitating web-based access to collections as data| 
-|09:20-09:35|II. Utilizing the full potential of the collections|tba|TITLE|
+|09:20-09:35|II. Utilizing the full potential of the collections|Ditte Laursen|Working across collections|
 |||Martijn Kleppe, Koninklijke Bibliotheek, National Library of the Netherlands / KB Labs|We solved text. The next step in DH & libraries is imagery|
 |09:35-10:50|III. Curating digital collections and learning resources for students and faculty|Lars Kjær, Royal Danish Library|Educational activities at university libraries around digital collections|
 |||Mahendra Mahey, British Library|GLAM Labs for researchers|
-|09:50-10:05|IV. Selection bias of digital collections|Stig Roar Svenningsen, Mads Linnet Perner & Ditte Laursen, Royal Danish Library|Types of bias in digitized and digital born collections|
+|09:50-10:05|IV. Selection bias of digital collections|Stig Roar Svenningsen & Mads Linnet Perner, Royal Danish Library|Types of bias in digitized collections|
 |||Rossitza Atanassova, British Library|It ain’t what you do but the way that you do it: Learning the lessons of how we capture the digital|
 |10:05-10:20|COFFEE BREAK|||
 |10:20-11:40|BREAKOUT SESSIONS|||

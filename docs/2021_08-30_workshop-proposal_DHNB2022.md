@@ -9,7 +9,7 @@
 |Name|**Annika Rockenberger**|
 |ORCID|https://orcid.org/0000-0001-9515-8262|
 |Affiliation|University of Oslo Library|
-|Email|annika.rockenberger@ub.uio.no|
+|Email||
 
 ### Co-organisers
 
@@ -18,7 +18,7 @@
 |Name|**Juliane Marie-Thérèse Tiemann**|
 |ORCID||
 |Affiliation|University of Bergen Library|
-|Email|juliane.tiemann@uib.no|
+|Email||
 
 
 
@@ -27,7 +27,7 @@
 |Name|**Olga Holownia**|
 |ORCID||
 |Affiliation|IIPC International Internet Preservation Consortium|
-|Email|olga@netpreserve.org|
+|Email||
 
 ### Session Format
 
@@ -158,16 +158,16 @@ We need to be clear with the scope of this workshop and the types of infrastruct
 - ~[DH Center Gothenburg](https://www.gu.se/en/digital-humanities)~
 - ~[Humanities Lab Lund](https://www.humlab.lu.se/)~
 - ~[HumLab Umeå](https://www.umu.se/en/humlab/)~
-- [KB-labb](https://www.kb.se/samverkan-och-utveckling/forskning-pagar/kb-labb.html) mailto:kblabb@kb.se
+- [KB-labb](https://www.kb.se/samverkan-och-utveckling/forskning-pagar/kb-labb.html)
 - ~[Centre for Digital Humanities Uppsala](https://www.abm.uu.se/cdhu-eng)~
 - ~[DH Växjø](https://lnu.se/en/research/searchresearch/digital-humanities/)~
-- [UB Uppsala digitala bibliotekslabbet](https://ub.uu.se/vara-platser/digitala-bibliotekslabbet/) - contact mailto:wolmar.n.akerstrom@uu.se ?
+- [UB Uppsala digitala bibliotekslabbet](https://ub.uu.se/vara-platser/digitala-bibliotekslabbet/) - contact WNA?
 - [UB Linköping DigiMaker](https://liu.se/en/article/digimaker)
 
 #### In Denmark
 
 - ~[DigHumLab](https://dighumlab.org/) (national infrastructure)~
-- [KB Labs](https://labs.kb.dk/) mailto:khg@kb.dk
+- [KB Labs](https://labs.kb.dk/) 
 
 #### In Finland
 
@@ -183,7 +183,7 @@ We need to be clear with the scope of this workshop and the types of infrastruct
 
 #### In Estonia
 
-- [DH Estonia](https://dh.org.ee/) - contact Mari Sarv
+- [DH Estonia](https://dh.org.ee/) - contact MS?
 
 #### In Lithuania
 

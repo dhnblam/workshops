@@ -25,13 +25,13 @@
 |||
 |---|---|
 |Name|**Olga Holownia**|
-|ORCID|()|
+|ORCID|https://orcid.org/0000-0003-1800-6526|
 |Affiliation|IIPC International Internet Preservation Consortium|
 |Email||
 
 ### Session Format
 
-Workshop - Full-day (09:00–16:00)
+Workshop - Full-day (09:00–16:00 CET)
 
 ### Intended Audience
 
@@ -50,11 +50,11 @@ Digital Humanities Support Units in the Nordic and Baltic Countries
 
 ### Short Description
 
-DHN2019 saw the founding of the working group for Digital Humanities at Libraries, Archives and Museums right after the British Library Lab had sparked a global movement of so-called GLAM-Labs and many National Libraries, Archives and Museums joined in. Since then, a guide on how to Open A GLAM-Lab @maheyOpenGLAMLab2019 has been published and big and small lab-like units have been springing up all over the place. While the focus of the previous workshop was on how the ALM sector in the Nordic and Baltic Countries has opened up its cultural heritage collections digitally to both its peoples and researchers, students, and activists internationally, the workshop for DHNB2022 will take a closer look at the concrete units and the infrastructure they create to support, foster, carry out, and preserve Digital Humanities research.
+DHN2019 saw the founding of the working group for Digital Humanities at Libraries, Archives and Museums right after the British Library Lab had sparked a global network of so-called GLAM-Labs (https://glamlabs.io) and many National Libraries, Archives and Museums joined in. Since then, a guide on how to Open A GLAM-Lab @maheyOpenGLAMLab2019 has been published and big and small lab-like units have been springing up all over the place. While the focus of the previous workshop, hosted by the Royal Danish Library at DHN2019, was on how the ALM sector in the Nordic and Baltic Countries has opened up its cultural heritage collections digitally to both the general public and researchers, students, and activists internationally, the DHNB2022 workshop will take a closer look at the concrete units and the infrastructure they have created or are planning to create in order to support, foster, carry out, and preserve Digital Humanities research. While there already are fully functional and sucessful labs in the Nordic and Baltic countries (e.g. at the Royal Danish Library, DIGHUMLAB), the goal is to map out all initiatives that support DH within the LAM sector.
 
-The aim of this workshop is to gather the coordinators and drivers of DH support units at ALM institutions in the Nordic and Baltic Countries for an exchange of experience, for much needed discussions, and exploring options for collaboration as well as delimitation. Thus, the individual units will become visible as parts of greater network of DH in practice and will become recognisable as an emerging supra-national infrastructure. A representative selection of DH support units from the different DHNB countries present themselves with lightning talks. The workshop participants will then work together mapping out Nordic and Baltic DH units at ALM institutions according to a set of parameters previously agreed on. A tentative list of parameters could be:
+The aim of this workshop is to bring together the coordinators and drivers of DH support units at ALM institutions in the Nordic and Baltic Countries for an exchange of experience, for much needed discussions, and exploring options for collaboration as well as delimitation. Thus, the individual units will become visible as parts of greater network of DH in practice and will become recognisable as an emerging supra-national infrastructure. A representative selection of DH support units from the different DHNB countries will present their activities by giving with lightning talks. The workshop participants will then work together to map out the Nordic and Baltic DH units at ALM institutions according to a set of parameters previously agreed on. A tentative list of parameters could be:
 
-How is DH research - and teaching - supported in the Nordic and Baltic Countries? Which are the institutions - and which are the concrete units at these institutions - that support DH? How do they organise the support? Who is supported (researchers, staff, students; public; affiliates w/ institutions or anyone)? Is access to digital collections provided? Are trainings provided? Are trainings/support provided outside the scope of the institutions collections? Is dissemination of DH research part of the support (events hosted, exhibitions, show-cases, blogs, podcasts, videos)? Is there a physical location? Is there use of equipment, computers, hardware, "lab"-facilities; books/analog media; space, furniture, etc.? Is there a virtual/online presence? Is software (licensed, working station) provided, a common work-space online, chat/video-chat/discord, social media interaction. Are these DH units 'rogue' units, which emerged as a reaction to an imminent demand, formed outside of an institutions mandate or framework? Or are they fixed-term or even long-term, integrated units (cf. policy; bottom-up / top-down)? Are DH units affiliated with other infrastructures? What about staff and background/training? Is research initiated by/lead by DH unit? What about authorship/contributions to research/representation as contributors? Is the support for free or a paid service? How is the relation of the unit to DH researchers/students/practitioners at the institution and outside of that institution? How are the needs of the research environments mapped in order to offer the best possible support? In regards to an open definition of digital humanities: are fields outside of the humanities considered? How are digital methods placed in an interdisciplinary discourse?
+How is DH research - and teaching - supported in the Nordic and Baltic Countries? Is support of DH research part of the larger digital strategy? Which are the institutions - and which are the dedicated units at these institutions - that support DH? How do they organise the support? Who is supported (researchers, staff, students, teachers; general public; affiliates w/ institutions)? Is access to digital collections (both digitised and born-digital content) provided and if so, how? Is training provided (e.g. specific tools and approaches, working with digital collections, access, etc.)? Are training and support provided outside the scope of the institutions' collections? Is dissemination of DH research part of the support (events hosted, exhibitions, show-cases, blogs, podcasts, videos)? In what way are the digital projects (outcomes, workflows, etc.) preserved and made accessible (e.g. through dedicated repositories, catalogue entries, web archives)? Is there a physical location (e.g. a "lab-like" space within the LAM institution)? Is there use of equipment, computers, hardware, "lab"-facilities; books/analog media; space, furniture, etc.? Is there a virtual/online presence? Is software (licensed, working station) provided, a common work-space online, chat/video-chat/discord, social media interaction? Are these DH units 'rogue' units, which emerged as a reaction to an imminent demand, formed outside of an institutions mandate or framework? Or are they fixed-term or even long-term, integrated units (cf. policy; bottom-up / top-down)? Are DH units affiliated with other infrastructures? What about staff and background/training? Is research initiated by/lead by DH unit? What about authorship/contributions to research/representation as contributors? Is the support for free or a paid service? How is the relation of the unit to DH researchers/students/practitioners at the institution and outside of that institution? How are the needs of the research environments mapped in order to offer the best possible support? In regards to an open definition of digital humanities: are fields outside of the humanities considered? How are digital methods placed in an interdisciplinary discourse? 
 
 The concrete output of the workshop will be an interactive map of DH support units and how they might supplement each other within national and transnational contexts. The map will be published via the DHNB website and will serve as a supplement to [similar but outdated map provided by CenterNet](https://dhcenternet.org/), and the [overview provided by the EADH](https://eadh.org/education/digital-humanities-centres). Additionally, the short presentations will be made accessible online and expanded with short descriptions of those units that could not be presented as well as new units that are yet to be launched. Finally, the outcome of the discussions and the mapping will be collected in a written report to be published in 2022 as a collective work by all participants describing the status quo of the Nordic and Baltic DH infrastructures provided by the ALM sector.
 
@@ -181,7 +181,8 @@ We need to be clear with the scope of this workshop and the types of infrastruct
 - ask MT
 
 #### In Iceland
-- ask OH
+- [National and University Library of Iceland](https://landsbokasafn.is) 
+- [Árni Magnússon Institute in Iceland](https://english.arnastofnun.is) 
 
 #### In Latvia
 
@@ -215,7 +216,7 @@ full-day, online (Zoom)
 Short presentations of DH infrastructures in lightning talks, where a couple of key questions should be addressed (list questions below).
 After that, participants work together in groups; first based on Nation and gather information regarding the DH infrastructures, key people, etc., second based on type of unit/hosting institution, focusing on subjects, target audiences, etc.
 
-The groups do a short presentation of their finds (what's common / what's different).
+The groups do a short presentation of their findings (what's common / what's different).
 
 The plenum comes up with further To-Dos, interesting questions, etc.
 

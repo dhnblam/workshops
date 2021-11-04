@@ -1,8 +1,8 @@
-# DH Units in the Nordic and Baltic Countries
+# Digital Humanities Support Units in the Nordic and Baltic Countries
 
 Workshop at the 6th Annual Conference of the Digital Humanities in the Nordic and Baltic Countries, Uppsala/Sweden, March 14–15, 2022.
 
-Information about the conferenve can be found on the [conference website](http://dhnb.eu/conferences/dhnb2022/).
+Information about the conference can be found on the [conference website](http://dhnb.eu/conferences/dhnb2022/).
 
 
 ## Co-organisers
@@ -13,15 +13,15 @@ Information about the conferenve can be found on the [conference website](http:/
 
 **Olga Holownia**, IIPC International Internet Preservation Consortium, [ORCID 0000-0003-1800-6526](https://orcid.org/0000-0003-1800-6526)
 
-### Session Format
+## Session Format
 
-Workshop - full-day, Tuesday, March 15, 2022 (09:00–16:00 CET)
+The workshop will be held online via Zoom.
 
+Either as a full-day workshop, Tuesday, March 15, 2022 (09:00–16:00 CET)
 **OR**
+as two half-day workshops, Monday & Tuesday, March 14–15, 2022 (13:00-16:00 CET)
 
-Workshop - two half-days, Monday & Tuesday, March 14–15, 2022 (13:00-16:00 CET)
-
-### Intended Audience
+## Intended Audience
 
 - Anyone working in the ALM sector with Digital Humanities support, outreach, training, and research
 - ALM institutions planning on building up Digital Humanities support units
@@ -31,7 +31,3 @@ Workshop - two half-days, Monday & Tuesday, March 14–15, 2022 (13:00-16:00 CET
 
 - max. 20 presenters
 - max. 40 participants working in small groups
-
-### Title
-
-Digital Humanities Support Units in the Nordic and Baltic Countries

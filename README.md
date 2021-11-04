@@ -8,8 +8,9 @@ Information about the upcoming [workshop](https://arockenberger.github.io/DHN_la
 
 ## Content of this repository
 
+- folder with [materials form the 2022 workshop in Uppsala](/2020)
 - folder with [materials from the 2019 workshop in Copenhagen](/2019)
-- folder with [documentation for the 2022 workshop in Uppsala](/docs)
+- folder with [documentation for the DHNB Labs Working Group](/docs)
 
 ## License information
 

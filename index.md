@@ -29,5 +29,5 @@ as two half-day workshops, Monday & Tuesday, March 14–15, 2022 (13:00-16:00 CE
 
 ### Approximate Number of Participants
 
-- max. 20 presenters
+- max. 10 presenters
 - max. 40 participants working in small groups

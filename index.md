@@ -46,7 +46,7 @@ Participants are encouraged to submit proposals for short presentations (lightni
 
 **Proposal format**
 
-Approximately 150 words, submitted to dhnblam[at]gmail.com by Feb 7, 2022. 
+Approximately 150 words, submitted to dhnblam[at]dhnb.eu by Feb 7, 2022. 
 
 Acceptance of proposals is decided by the workshop organisers.
 
@@ -58,4 +58,4 @@ Notification of acceptance: February 14, 2022
 
 **Contact**
 
-dhnblam[at]gmail.com
+dhnblam[at]dhnb.eu

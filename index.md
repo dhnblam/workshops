@@ -58,7 +58,7 @@ Notification of acceptance: February 14, 2022
 
 **Contact**
 
-dhnblam[at]dhnb.eu
+dhlam[at]dhnb.eu
 
 ## Workshop Description
 Status of the field

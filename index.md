@@ -44,7 +44,7 @@ You can [sign up for the workshop directly](https://clirdlf.zoom.us/meeting/regi
 ||**Magnus Breder Birkenes** (DH-Lab, National Library of Norway)|
 ||**Espen Uleberg** (Museum of Cultural History/University of Oslo, Norway)|
 ||**Johanna Berg** (World Culture Museum, Sweden)|
-||**Katrine Hofmann Gasser** (Royal Danish Library)|
+||**tba** (tba)|
 |15:00-15:40|Breakout sessions|
 |15:40-16:00|Reporting out & Wrap-up|
 

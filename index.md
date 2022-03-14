@@ -35,7 +35,7 @@ You can [sign up for the workshop directly](https://clirdlf.zoom.us/meeting/regi
 |---|---|
 |13:00-13:10|Welcome|
 |13:10-14:00|Presentations + Q&A (4x10)|
-||**Anda Baklane** (National Library of Latvia)|
+||**Anda Baklāne** (National Library of Latvia)|
 ||**Sally Chambers** (Royal Library of Belgium, Ghent University & DARIAH)|
 ||**Magnus Breder Birkenes** (DH-Lab, National Library of Norway)|
 ||**Kamilla Jensen Husen** (University Library of Southern Denmark)|

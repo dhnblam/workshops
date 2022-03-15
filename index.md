@@ -40,11 +40,10 @@ You can [sign up for the workshop directly](https://clirdlf.zoom.us/meeting/regi
 ||**Magnus Breder Birkenes** (DH-Lab, National Library of Norway)|
 ||**Kamilla Jensen Husen** (University Library of Southern Denmark)|
 |14:00-14:10|Short break|
-|14:10-15:00|Presentations + Q&A (4x10)|
+|14:10-15:00|Presentations + Q&A (3x10)|
 ||**Nicolò Dell’Unto** (Laboratoriet för Digital Arkeologi DARK Lab, Sweden)|
 ||**Espen Uleberg** (Museum of Cultural History/University of Oslo, Norway)|
 ||**Johanna Berg** (World Culture Museum, Sweden)|
-||**tba** (tba)|
 |15:00-15:40|Breakout sessions|
 |15:40-16:00|Reporting out & Wrap-up|
 
